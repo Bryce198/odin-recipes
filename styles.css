@@ -1,0 +1,35 @@
+h1 {
+    border: 5px solid blue;
+    padding: 10px;
+    text-align: center;
+    color: blue;
+}
+body {
+    background-color: orange;
+}
+
+a {
+    color: black;
+}
+
+img {
+    width: 300px;
+    float: right;
+    padding: 1px;
+}
+
+p,
+li {
+    color: blue;
+}
+
+.styled-box {
+    padding: 8px;
+    margin-top: -15px;
+}
+
+.second-header {
+    text-align: center;
+    margin-top: -12px;
+    color: blue;
+}
